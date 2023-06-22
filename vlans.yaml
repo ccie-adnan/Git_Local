@@ -11,3 +11,6 @@ vlans:
   - id: 103
     name: Security
     gateway: 172.20.103.1
+  - id: 104
+    name: WIFI
+    gateway: 172.20.104.1
